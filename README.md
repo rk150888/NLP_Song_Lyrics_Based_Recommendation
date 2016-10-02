@@ -7,5 +7,5 @@ Assignment: Project2_Group7.py
 2)Write words along with the key term in the list
 Working on writing the resultant dictionary in the output file.
 
-Assignment : Ttwitter_corpus.py
+Assignment : twitter_corpus.py
 
