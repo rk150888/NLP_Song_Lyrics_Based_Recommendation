@@ -9,11 +9,11 @@ Each Lyrics in training data has three features : Lyrics,Name,Sentiment
 Training data songs have been classified into three sentiments:positive, negative, not defined.
 
 Training :
-1. Created a function to identify lyrics and sentiments from training data
-2. Removed stop word from lyrics
-3. Created a bag of words of all lyrics
-4. Found frequency distribution of all words
-5. Applied features to filtered corpus and used Naive-Bayes algorithm to train the classifier on training data
+1. Created a function to identify lyrics and sentiments from training data.
+2. Removed stop word from lyrics.
+3. Created a bag of words of all lyrics.
+4. Found frequency distribution of all words.
+5. Applied features to filtered corpus and used Naive-Bayes algorithm to train the classifier on training data.
 
 Testing :
 1. Applied classifier on testing data to find sentiments of song based on lyrics.
