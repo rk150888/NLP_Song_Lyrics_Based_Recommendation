@@ -5,7 +5,8 @@ Recommendation system based on music lyrics sentiment analysis.
 ## LyricsBasedSongRecommendation.py
 ### Explanation of code, assumptions and process flow in project:
 
-Each Lyrics in training data has three features :  Lyrics,Name,Sentiment
+Each Lyrics in training data has three features :  Lyrics,Name,Sentiment.
+
 Training data songs have been classified into three sentiments: positive, negative, not defined.
 
 Training :
