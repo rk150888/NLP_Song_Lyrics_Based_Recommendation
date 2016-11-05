@@ -2,8 +2,8 @@ Group Project
 # NLP_Song_Lyrics_Based_Recommendation
 Recommendation system based on music lyrics sentiment analysis.
 
-# LyricsBasedSongRecommendation.py
-# Explanation of code, assumptions and process flow in project:
+## LyricsBasedSongRecommendation.py
+### Explanation of code, assumptions and process flow in project:
 
 Each Lyrics in training data has three features : Lyrics,Name,Sentiment
 Training data songs have been classified into three sentiments:positive, negative, not defined.
@@ -21,7 +21,7 @@ Testing :
 
 Used model to identify sentiment of a string in lyrics for verification purposes
 
-# Recommendation :
+## Recommendation :
 Recommendation based on basis of last five songs chosen by the user to listen(User_Last_5_Songs.txt)
 1)Identified sentiments of the songs in user history.
 2)Calculated the majority sentiment
@@ -34,7 +34,7 @@ References: Github repositories
 
 
 
-# Class Assignments :
+## Class Assignments :
 Class Assignment 1: Project2_Group7.py
 1)Remove Stopwords
 2)Write words along with the key term in the list.
